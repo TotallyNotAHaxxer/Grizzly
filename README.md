@@ -21,3 +21,6 @@ Currently grizzly is supported on the following browsers and machines
 | MacOSx                | Firefox, Chrome, Brave       |
 | Linux 32/64 bit       | Firefox, Chrome, Brave       |
 
+# Project's future 
+
+as the grizzly project progresses the security and features of the project will go on! and keep being open source, in the future the project will become closed source, this version beta and 1.0 will be free but the idea of this project was to be paid while also having community versions. Give the project support its super new and is only just now starting its journey
