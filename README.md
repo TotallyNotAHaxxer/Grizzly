@@ -42,4 +42,10 @@ Please do not give this project the shitty hand, it needs ALOT of improovement a
 
 # Demos 
 
+### Dashboard home (http://localhost:5501) ###
+
 ![Grizzly Dashboard home](git/Grizzly_Dash.png)
+
+### Save a new password ###
+
+![Grizzly save new password](git/Grizzly_New_Pass.png)
