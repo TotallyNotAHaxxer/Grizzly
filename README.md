@@ -38,3 +38,8 @@ as the grizzly project progresses the security and features of the project will 
 # User note 
 
 Please do not give this project the shitty hand, it needs ALOT of improovement and was abandoned for quite some time, however i am also a developer with no team or contribs behind my hand, along with current things i am working on. This project will constantly be updated but keep in mind its barely even reached beta yet! 
+
+
+# Demos 
+
+![Grizzly Dashboard home](git/Grizzly_Dash.png)
