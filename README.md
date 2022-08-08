@@ -1,2 +1,2 @@
 
-[Grizzly_logo](Grizzly_logo.jfif)
+![Grizzly_logo](Grizzly_logo.jfif)
