@@ -11,6 +11,15 @@ Grizzly is a beta program made to manage your everyday passwords, simple passwor
 
 The idea of grizzly was to generate the random files, store the locations, and unlock the files in their remote location, this makes it harder for hackers to collect all passwords once your system is comprimised however this has not yet been implimented and is quite buggy, so files are stored in the grizzly filepath. The documentation part of the web interface DOES NOT WORK, it has not been writen yet so please make sure you do not submit a bug report when its simply just not finished. During large passwords like 32 character passwords the password will overflow the HTML and wont load properly.
 
+> Web interface issues 
+
+The web interface in the section user information is a bit bugged, it gives decent information but the pre generated CSS and html can mess up sometimes.
+
+> Dashboard home grizzly log not showing up 
+
+the grizzly log bar will show up but session stats will always default to `no passwords saved during this session` or `no websites saved during this session`
+
+
 # Support for machines 
 
 Currently grizzly is supported on the following browsers and machines 
@@ -24,3 +33,8 @@ Currently grizzly is supported on the following browsers and machines
 # Project's future 
 
 as the grizzly project progresses the security and features of the project will go on! and keep being open source, in the future the project will become closed source, this version beta and 1.0 will be free but the idea of this project was to be paid while also having community versions. Give the project support its super new and is only just now starting its journey
+
+
+# User note 
+
+Please do not give this project the shitty hand, it needs ALOT of improovement and was abandoned for quite some time, however i am also a developer with no team or contribs behind my hand, along with current things i am working on. This project will constantly be updated but keep in mind its barely even reached beta yet! 
