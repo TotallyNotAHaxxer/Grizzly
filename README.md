@@ -48,4 +48,9 @@ Please do not give this project the shitty hand, it needs ALOT of improovement a
 
 ### Save a new password ###
 
-![Grizzly save new password](git/Grizzly_New_Pass.png)
+![Grizzly save new password](git/Grizzly_New_Password.png)
+
+
+### User information ###
+
+![Grizzly user information](git/Grizzly_User_Information.png)
