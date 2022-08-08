@@ -53,4 +53,9 @@ Please do not give this project the shitty hand, it needs ALOT of improovement a
 
 ### User information ###
 
-![Grizzly user information](git/Grizzly_User_Information.png)
+![Grizzly User_Info](git/Grizzly_User_Information.png)
+
+
+### View Saved Passwords ###
+
+![Grizzly_Demo_Passwords](git/Grizzly_Demo_Passwords.png)
